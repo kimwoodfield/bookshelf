@@ -6,3 +6,11 @@ By querying the database through the front-end users can create book entries, di
 * HTML, CSS and JavaScript for the frontend
 * Vanilla PHP for the backend using an MVC design pattern
 * SQL to query a MySQL database
+
+**Screenshots -**
+
+![](view/images/screenshots/login.png)
+
+![](view/images/screenshots/landing.png)
+
+![](view/images/screenshots/mobile.png)
