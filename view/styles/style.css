@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#index {
+    background-color: #202020;
+    color: #202020;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sampleFormBoxIndex {
+    background-color: white;
+    height: 20em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1.5em 5em;
+}
+
+.sampleFormBoxIndex > form > fieldset {
+    border: none;
+}
+
+.sampleFormBoxIndex > h1 {
+    padding: 1.5em 0;
+}
+
+#loginForm {
+    border: 1px dotted white;
+}
+
+#home-header {
+    background-color: #202020;
+    height: 3em;
+}
