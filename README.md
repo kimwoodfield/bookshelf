@@ -4,5 +4,5 @@ By querying the database through the front-end users can create book entries, di
 
 **Technologies used -**
 * HTML, CSS and JavaScript for the frontend
-* Vanilla PHP for the backend using an MVC design pattern.
-* SQL to query a MySQL database.
+* Vanilla PHP for the backend using an MVC design pattern
+* SQL to query a MySQL database
