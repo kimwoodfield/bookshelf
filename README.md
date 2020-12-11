@@ -1,4 +1,4 @@
-# book-shelf📚
+# bookshelf📚
 A user-interface that let's you manage book data stored in a MySQL database
 
 Technologies used: 
